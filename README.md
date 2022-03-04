@@ -1,2 +1,2 @@
 # Data Science Project
-A new repository projects for Udacity
+A new repository projects for my DS prj
